@@ -3,7 +3,7 @@
 **Versatile Professional with Experience in Customer Service, Seeking Opportunities in IT or Accounting**
 
 📞 +1 829 385 0365  
-✉️ [gervy_969g@hotmail.com]
+✉️ [gervy_969g@hotmail.com](mailto:gervy_969g@hotmail.com)  
 🌍 Santiago, Dominican Republic 51000  
 
 **Note:** Sponsorship required to work in the US
