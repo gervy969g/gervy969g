@@ -3,7 +3,7 @@
 **📍 Santiago, Dominican Republic**  
 **🌟 Aspiring IT Professional | Customer Service Expert | Accounting Background**
 
-[Email me](mailto:gervy_969g@hotmail.com) | [LinkedIn](#) | [GitHub](https://github.com/your-username)
+[Email me](mailto:gervy_969g@hotmail.com) | 
 
 ---
 
