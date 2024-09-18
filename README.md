@@ -61,7 +61,3 @@ I’m a highly motivated professional with a strong foundation in **customer ser
 - **Database optimization** for large-scale applications.
 
 ---
-
-### 📈 GitHub Stats
-
-[![Gervy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
