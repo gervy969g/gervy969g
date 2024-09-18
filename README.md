@@ -1,53 +1,67 @@
 # Gervy De La Cruz
 
-**Versatile Professional with Experience in Customer Service, Seeking Opportunities in IT or Accounting**
+**📍 Santiago, Dominican Republic**  
+**🌟 Aspiring IT Professional | Customer Service Expert | Accounting Background**
 
-📞 +1 829 385 0365  
-✉️ [gervy_969g@hotmail.com](mailto:gervy_969g@hotmail.com)  
-🌍 Santiago, Dominican Republic 51000  
+[Email me](mailto:gervy_969g@hotmail.com) | [LinkedIn](#) | [GitHub](https://github.com/your-username)
 
-**Note:** Sponsorship required to work in the US
+---
 
-## Summary
+### 👋 About Me
 
-I am an enthusiastic individual with a background in customer service, eager to transition into the dynamic field of IT. While I currently possess limited experience in the IT sector, I am highly motivated to acquire new skills and specialize in software development and database management. Additionally, leveraging my accounting background, I aim to gain valuable experience in financial management within the IT industry. I am committed to continuous learning and growth, seeking opportunities to contribute effectively to organizational success.
+I’m a highly motivated professional with a strong foundation in **customer service** and **accounting**, currently transitioning into the world of **software development** and **database management**. My goal is to integrate my analytical skills from accounting with technical expertise in IT to contribute to innovative projects and organizational growth.
 
-## Work Experience
+### 🎯 My Career Goals
+- **Short-Term**: Enhance my skills in multiplatform application development and database management.
+- **Long-Term**: Secure a position in software development or financial management within IT, where I can combine my customer service and accounting experience with technical expertise.
 
-**Customer Service Representative/Sales Representative**  
-*Espartana E.I.R.L. - Santiago de los Caballeros, Dominican Republic*  
-*February 2019 to Present*  
-- Facilitated effective communication and engagement with customers, ensuring satisfaction and loyalty.
-- Managed order processing, including new orders, inquiries, and follow-ups, via phone, email, and live chat.
-- Conducted supplier research, negotiation, and selection, optimizing product offerings and pricing.
-- Monitored order status and coordinated successful delivery, prioritizing customer needs and preferences.
+---
 
-**Customer Service Representative (CSR)**  
-*Data Vimenca - Santiago, Dominican Republic*  
-*May 2016 to December 2017*  
-- Provided prompt assistance via live chat to address inquiries related to new orders, billing issues, service complaints, and other customer concerns.
-- Engaged with customers to ensure satisfaction and resolve issues effectively, enhancing overall customer experience and loyalty.
+### 🚀 Projects
 
-**Customer Service Representative (CSR)**  
-*United Nearshore Operation (UNO) - Santiago, Dominican Republic*  
-*October 2015 to February 2016*  
-- Provided telephone support to address billing inquiries, facilitate addition of complementary services, and resolve customer complaints.
-- Demonstrated strong communication skills to effectively assist customers and ensure their satisfaction.
-- Maintained a high level of professionalism and efficiency in handling customer interactions, contributing to positive customer experiences.
+1. **[E-commerce Platform (In Progress)](https://github.com/your-repo)**  
+   - Developing an online platform for a hypothetical e-commerce business to manage orders, inventory, and customer accounts.
+   - **Tech Stack**: HTML, CSS, JavaScript, MySQL, Oracle DB
 
-**Accounting Assistant (Internship)**  
-*Tamboril Town Hall, Tamboril - Santiago, Dominican Republic*  
-*June 2014 to August 2014*  
-- Verified the accuracy of all checks and ensured proper documentation.
-- Completed daily diary entries to record financial transactions and activities.
-- Executed tasks assigned by supervisors with attention to detail and efficiency, contributing to the smooth operation of accounting processes.
+2. **[Accounting Software Prototype](https://github.com/your-repo)**  
+   - A simple accounting tool built to handle basic ledger entries, balance sheets, and financial statements.
+   - **Tech Stack**: Python, SQLite
 
-## Education
+3. **[CRUD Application for Green Day](https://github.com/your-repo)**  
+   - A database management system for Green Day, a sustainable product distributor, including functionalities for creating, updating, and deleting product data.
+   - **Tech Stack**: Java, Oracle DB
 
-**College Diploma in Multiplatform Application Development Technician**  
-*TEP PUCMM - Center for Technology and Permanent Education - Santiago, Dominican Republic*  
-*September 2023 to Present*
+---
 
-**Bachelor's Degree in Accounting**  
-*Dominican University O&M - Santiago*  
-*January 2015 to August 2022*
+### 💡 Skills
+
+- **Languages**: Java, Python, SQL, PL/SQL  
+- **Databases**: Oracle, MySQL, SQLite  
+- **Web Technologies**: HTML, CSS, JavaScript  
+- **Tools**: Git, Visual Studio Code, IntelliJ IDEA  
+- **Customer Service**: 5+ years of experience with CRM systems, issue resolution, and communication.  
+- **Accounting**: Financial management, ledger entries, reconciliation, and reporting.
+
+---
+
+### 🎓 Education
+
+- **College Diploma**: Multiplatform Application Development Technician  
+  *TEP PUCMM - Center for Technology and Permanent Education* (2023 - Present)
+  
+- **Bachelor's Degree**: Accounting  
+  *Dominican University O&M* (2015 - 2022)
+
+---
+
+### 📚 Currently Learning
+
+- Advanced **Java** and **Python** for backend development.
+- **Web development frameworks** like React and Django.
+- **Database optimization** for large-scale applications.
+
+---
+
+### 📈 GitHub Stats
+
+[![Gervy's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
