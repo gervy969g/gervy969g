@@ -17,22 +17,6 @@ I’m a highly motivated professional with a strong foundation in **customer ser
 
 ---
 
-### 🚀 Projects
-
-1. **[E-commerce Platform (In Progress)](https://github.com/your-repo)**  
-   - Developing an online platform for a hypothetical e-commerce business to manage orders, inventory, and customer accounts.
-   - **Tech Stack**: HTML, CSS, JavaScript, MySQL, Oracle DB
-
-2. **[Accounting Software Prototype](https://github.com/your-repo)**  
-   - A simple accounting tool built to handle basic ledger entries, balance sheets, and financial statements.
-   - **Tech Stack**: Python, SQLite
-
-3. **[CRUD Application for Green Day](https://github.com/your-repo)**  
-   - A database management system for Green Day, a sustainable product distributor, including functionalities for creating, updating, and deleting product data.
-   - **Tech Stack**: Java, Oracle DB
-
----
-
 ### 💡 Skills
 
 - **Languages**: Java, Python, SQL, PL/SQL  
