@@ -17,6 +17,37 @@ I’m a highly motivated professional with a strong foundation in **customer ser
 
 ---
 
+### Projects
+
+# To-Do List Web App  
+
+## Descripción  
+Una aplicación web interactiva que permite a los usuarios gestionar sus tareas diarias de manera eficiente. Los usuarios pueden agregar, editar, eliminar y marcar tareas como completadas, todo en una interfaz amigable y responsiva.  
+
+## Características  
+- **Gestión de Tareas**: Crear, editar y eliminar tareas fácilmente.  
+- **Marcado de Compleción**: Indica qué tareas han sido completadas.  
+- **Interfaz Responsiva**: Optimizada para dispositivos móviles, tablets y escritorios.  
+- **Persistencia de Datos**: Las tareas se almacenan para su uso continuo.  
+- **Diseño Minimalista**: Enfoque en la funcionalidad con un diseño moderno.  
+
+## Tecnologías Utilizadas  
+- **Frontend**: HTML, CSS, JavaScript.  
+- **Backend**: Node.js y Express.js.  
+- **Base de Datos**: MongoDB (o PostgreSQL, según el caso).  
+- **Control de Versiones**: Git y GitHub para el manejo del código fuente.  
+
+## Instalación  
+1. Clona el repositorio:  
+   ```bash
+   git clone https://github.com/gervy969g/to-do-list-web-app.git
+   cd to-do-list-web-app
+
+
+[To-Do List Web App](https://github.com/gervy969g/to-do-list-web-app)  
+
+---
+
 ### 💡 Skills
 
 - **Languages**: Java, Python, SQL, PL/SQL  
