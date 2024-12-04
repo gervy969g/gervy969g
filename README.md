@@ -21,24 +21,24 @@ I’m a highly motivated professional with a strong foundation in **customer ser
 
 # To-Do List Web App  
 
-## Descripción  
-Una aplicación web interactiva que permite a los usuarios gestionar sus tareas diarias de manera eficiente. Los usuarios pueden agregar, editar, eliminar y marcar tareas como completadas, todo en una interfaz amigable y responsiva.  
+## Description  
+An interactive web application that helps users manage their daily tasks efficiently. Users can add, edit, delete, and mark tasks as completed, all within a user-friendly and responsive interface.  
 
-## Características  
-- **Gestión de Tareas**: Crear, editar y eliminar tareas fácilmente.  
-- **Marcado de Compleción**: Indica qué tareas han sido completadas.  
-- **Interfaz Responsiva**: Optimizada para dispositivos móviles, tablets y escritorios.  
-- **Persistencia de Datos**: Las tareas se almacenan para su uso continuo.  
-- **Diseño Minimalista**: Enfoque en la funcionalidad con un diseño moderno.  
+## Features  
+- **Task Management**: Easily create, edit, and delete tasks.  
+- **Completion Marking**: Highlight tasks that have been completed.  
+- **Responsive Interface**: Optimized for mobile devices, tablets, and desktops.  
+- **Data Persistence**: Tasks are stored for continuous use.  
+- **Minimalist Design**: Focused on functionality with a modern look and feel.  
 
-## Tecnologías Utilizadas  
+## Technologies Used  
 - **Frontend**: HTML, CSS, JavaScript.  
-- **Backend**: Node.js y Express.js.  
-- **Base de Datos**: MongoDB (o PostgreSQL, según el caso).  
-- **Control de Versiones**: Git y GitHub para el manejo del código fuente.  
+- **Backend**: Node.js and Express.js.  
+- **Database**: MongoDB (or PostgreSQL, depending on the implementation).  
+- **Version Control**: Git and GitHub for source code management.  
 
-## Instalación  
-1. Clona el repositorio:  
+## Installation  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/gervy969g/to-do-list-web-app.git
    cd to-do-list-web-app
